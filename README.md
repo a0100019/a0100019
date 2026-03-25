@@ -1,11 +1,40 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=안녕하세요,%20이유빈입니다%20👋&fontSize=40&animation=fadeIn&fontAlignY=40)
-
-  <img src="https://img.shields.io/badge/하루마을-1,000+%20Users-brightgreen?style=for-the-badge&logo=googleplay&logoColor=white">
-  <img src="https://img.shields.io/badge/Patent/Paper-노인용%20모바일%20시스템-blue?style=for-the-badge&logo=ko-fi&logoColor=white">
-
+  <img width="100%" src="https://cardivo.vercel.app/api?name=Yubin%20Lee&description=Passionate%20Android%20Developer%20specializing%20in%20Kotlin%2C%20Jetpack%20Compose%2C%20and%20MVI%20architecture.%20Focused%20on%20solving%20real-world%20problems%20with%20technical%20precision%2C%20like%20sensor%20data%20calibration%20and%20GPS-based%20automation.%20Committed%20to%20building%20apps%20that%20foster%20personal%20growth%20and%20user%20well-being.&image=https%3A%2F%2Fraw.githubusercontent.com%2FKenanGain%2FKenanGain%2Fmain%2Ficons%2Fwave.gif&backgroundColor=%23ffffff&colorPattern=%23f0f0f0&github=YubinLee&linkedin=YubinLee" alt="Yubin Lee's Card" />
 </div>
+
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/icons/wave.gif" width="48"> , I'm Yubin Lee</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Enthusiast;Problem+Solver;Climbing+Lover;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>도전하는 개발자 | 일상의 문제를 코드로 해결하는 안드로이드 엔지니어</b>
+</p>
+
+<br>
+
+<div align="center">
+  <h2>🌐 About & Tech</h2>
+  <p>안드로이드 OS 메커니즘을 파고들어 사용자에게 가치 있는 경험을 제공합니다.</p>
+
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MVI-Orbit-FF6F00?style=for-the-badge&logo=target&logoColor=white">
+</div>
+
+<br>
+
+
+
+---
+
+### 🚀 Key Troubleshooting
+* **Sensor Calibration**: `STEP_COUNTER` 휘발성 데이터 보정 알고리즘 설계로 데이터 무결성 확보
+* **GPS Automation**: Haversine 공식을 활용한 클라이밍 동아리 위치 기반 출석 시스템 구축
+
+---
 
 <br/>
 
@@ -31,13 +60,13 @@
   - **Firebase NoSQL의 한계 극복:** 데이터 복잡도 해결을 위해 **Spring Boot & MySQL 마이그레이션** 진행 중
   - **자동 저장 기능 구현:** Coroutines와 Firebase의 실시간 동기화 로직 최적화
 
-👉 **[하루마을 깃허브 바로가기](https://github.com/유빈님계정/HaruMaul-Android-Official)** | **[구글 플레이 스토어 보기](유빈님앱플레이스토어링크)**
+👉 **[하루마을 깃허브 바로가기](https://github.com/a0100019/HaruVillage-Android-Official)** | **[구글 플레이 스토어 보기](https://play.google.com/store/apps/details?id=com.a0100019.mypat)**
 
 <br/>
 
 ### 👴 2. 어르신을 부탁해 (노인 안심 알리미)
 > **특허 및 논문 기반의 노인 안심 케어 및 모니터링 시스템**
-- **역할:** 팀 프로젝트 (성균관대학교 융합캡스톤디자인)
+- **역할:** 팀 프로젝트 (동국대학교 융합캡스톤디자인)
 - **핵심 성과:**
   - **[특허 출원]** 노인용 1대1 모바일 관리 시스템 및 데이터 처리 방법
   - **[학술대회 논문]** One-to-one mobile care system for the elderly
@@ -47,7 +76,7 @@
   - **LBS(위치 기반 서비스) 구현:** 보호자와 피보호자 간의 실시간 위치/활동 모니터링 로직 설계
   - **알림 기능 구현:** FCM을 활용한 일반/경고 알림 전송 및 수신 처리
 
-👉 **[어르신을 부탁해 깃허브 바로가기](https://github.com/유빈님계정/Elderly-Care-System-Android)** | **[논문 원문 보기](유빈님논문링크)**
+👉 **[어르신을 부탁해 깃허브 바로가기](https://github.com/a0100019/Elderly-Care-System-Android)** | **[논문 원문 보기](유빈님논문링크)** | **[특허 보기](유빈님논문링크)**
 
 <br/>
 
@@ -59,13 +88,3 @@
 - **Firebase:** Auth, Firestore, Storage, FCM
 
 <br/>
-
-## 🤔 Github Stats
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
