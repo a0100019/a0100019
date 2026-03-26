@@ -1,12 +1,22 @@
 <div align="center">
-  <img width="100%" src="https://cardivo.vercel.app/api?name=Yubin%20Lee&description=Passionate%20Android%20Developer%20specializing%20in%20Kotlin%2C%20Jetpack%20Compose%2C%20and%20MVI%20architecture.%20Focused%20on%20solving%20real-world%20problems%20with%20technical%20precision%2C%20like%20sensor%20data%20calibration%20and%20GPS-based%20automation.%20Committed%20to%20building%20apps%20that%20foster%20personal%20growth%20and%20user%20well-being.&image=https%3A%2F%2Fraw.githubusercontent.com%2FKenanGain%2FKenanGain%2Fmain%2Ficons%2Fwave.gif&backgroundColor=%23ffffff&colorPattern=%23f0f0f0&github=YubinLee&linkedin=YubinLee" alt="Yubin Lee's Card" />
+  <img width="100%" src="https://cardivo.vercel.app/api?name=환영합니다!&description=자기주도적인%20개발자%2C%20이유빈입니다!&image=https%3A%2F%2Fraw.githubusercontent.com%2FKenanGain%2FKenanGain%2Fmain%2Ficons%2Fwave.gif&backgroundColor=%23E0E0E0&colorPattern=%23F5F5F5" alt="Yubin Lee's Card" />
 </div>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/icons/wave.gif" width="48"> , I'm Yubin Lee</h1>
+동국대학교 졸업, 식품생명공학과, 융합소프트웨어학과 2020.03 ~ 2026.02
+학점 4.09
+복수전공 학점 4.13
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Enthusiast;Problem+Solver;Climbing+Lover;" alt="Typing SVG" />
-</p>
+수상
+동국대학교 우등졸업생
+동국대학교 캡스톤디자인 총장상(1등) 수상
+ESG 캡스톤디자인 우수상
+
+영어성적
+지텔프 94
+
+skill
+main - kotlin, jetpackCompose, hilt, mvi, java
+sub - 등등
 
 <p align="center">
   <b>도전하는 개발자 | 일상의 문제를 코드로 해결하는 안드로이드 엔지니어</b>
