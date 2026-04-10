@@ -2,6 +2,10 @@
   <img width="100%" src="https://cardivo.vercel.app/api?name=환영합니다!&description=자기주도적인%20개발자%2C%20이유빈입니다!&image=https%3A%2F%2Fraw.githubusercontent.com%2FKenanGain%2FKenanGain%2Fmain%2Ficons%2Fwave.gif&backgroundColor=%23E0E0E0&colorPattern=%23F5F5F5" alt="Yubin Lee's Card" />
 </div>
 
+동국대학교 졸업, 식품생명공학과, 융합소프트웨어학과 2020.03 ~ 2026.02
+학점 4.09
+복수전공 학점 4.13
+
 수상
 동국대학교 우등졸업생
 동국대학교 캡스톤디자인 총장상(1등) 수상
